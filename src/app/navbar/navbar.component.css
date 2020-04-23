@@ -1,0 +1,26 @@
+nav {
+    padding: 4px;
+    border-bottom: 5px solid rgba(255,255,255,0.6);
+
+    font-family: 'Baloo Paaji 2', cursive;
+
+    background: #544a7d; 
+    background: -webkit-linear-gradient(to right, #89216B, #ffd452); 
+    background: linear-gradient(to right, #89216B, #ffd452);
+}
+
+h1 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 2em;
+    font-weight: bold;
+    color: #ffd452;
+}
+
+h1:hover{
+    filter: brightness(80%);
+}
+
+a {
+    text-decoration: none;
+}
